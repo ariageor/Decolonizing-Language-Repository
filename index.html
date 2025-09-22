@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Zoo Interpretation Glossary</title>
+
+  <!-- DataTables CSS -->
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+
+  <style>
+    body{font-family:system-ui,Segoe UI,Roboto,Helvetica,Arial;max-width:1100px;margin:2rem auto;padding:0 1rem}
+    h1{margin-bottom:.2rem}
+    p.lead{color:#333;margin-top:0;margin-bottom:1rem}
+  </style>
+</head>
+<body>
+  <h1>Inclusive Zoo Interpretation Glossary</h1>
+  <p class="lead">Searchable glossary of terms and suggested alternatives. Source: community contributions via GitHub.</p>
+
+  <table id="glossary" class="display" style="width:100%">
+    <thead>
+      <tr>
+        <th>Term to Reconsider</th>
+        <th>Suggested Alternative</th>
+        <th>Why is the Term Problematic (Context & Notes)</th>
+        <th>Source/Link</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <!-- jQuery, DataTables, PapaParse -->
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
+
+  <script>
+    // Load the CSV from the same repo (terms.csv) and initialize DataTable
+    document.addEventListener('DOMContentLoaded', function () {
+      Papa.parse('terms.csv', {
+        download: true,
+        header: true,
+        skipEmptyLines: true,
+        complete: function(results) {
+          // remove totally empty rows (if any)
+          const rows = results.data.filter(r => Object.values(r).some(v => v !== null && v.toString().trim() !== ''));
+
+          $('#glossary').DataTable({
+            data: rows,
+            columns: [
+              { data: "Term to Reconsider" },
+              { data: "Suggested Alternative" },
+              { data: "Why is the Term Problematic (Context & Notes)" },
+              {
+                data: "Source/Link",
+                render: function(data, type, row, meta) {
+                  if (!data) return '';
+                  data = data.toString().trim();
+                  // if contains a URL, make it a clickable link; otherwise show the text
+                  const urlMatch = data.match(/https?:\/\/[^\s]+/);
+                  if (urlMatch) {
+                    return '<a href="' + urlMatch[0] + '" target="_blank" rel="noopener noreferrer">' + data + '</a>';
+                  }
+                  return data;
+                }
+              }
+            ],
+            paging: true,
+            searching: true,
+            responsive: true,
+            pageLength: 10
+          });
+        },
+        error: function(err) {
+          document.body.insertAdjacentHTML('beforeend', '<p style="color:red">Could not load terms.csv — check that the file exists in the repository.</p>');
+          console.error(err);
+        }
+      });
+    });
+  </script>
+</body>
+</html>
