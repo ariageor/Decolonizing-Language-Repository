@@ -1,57 +1,59 @@
-"Native uprising","Anti-colonial resistance / Sovereignty movement","“Uprising” implies rebellion against rightful authority.","Environmental Humanities"
-"Vanishing wildlife","At-risk / Vulnerable / Conservation-dependent species","""Vanishing"" naturalizes decline, obscuring human causes.","Harbinger Journal"
-"Savage land","Biodiverse ecosystem / High-wildlife area","Dehumanizes and justifies domination of both land and people.","Environmental Humanities"
-"Trophy hunting","Commercialized wildlife killing","Sanitizes the violence of animal killing for leisure.","Sapiens"
-"Chief","Community leader / Elder / Specific title","Generic term that collapses diverse political systems into a stereotype.","Survival International"
-"Native superstition","Cultural belief system / Traditional cosmology","""Superstition"" delegitimizes Indigenous epistemologies.","Harbinger Journal"
-"Ethnic zoo (old signage/labels)","Cultural exhibit / Human diversity exhibition","Refers to racist human displays common in colonial fairs.","Survival International"
-"Indigenous extinction","Cultural suppression / Language loss due to colonisation","Implies inevitability instead of political erasure.","Decolonization Is Not a Metaphor"
-"Lost language","Dormant language / Revivable heritage language","“Lost” implies hopelessness and cultural extinction.","PRISM: Indigenous Language Reclamation"
-"Desolate land","Dryland / Semi-arid ecosystem","Encourages erasure and repurposing of Indigenous territories.","Environmental Humanities – Behind the Colonial Silence of Wilderness"
-"Jungle tribe","Forest-dwelling Indigenous group","Exoticizing and colonial framing.","Survival International"
-"Hostile environment","Harsh habitat / Biodiversity-challenged area","""Hostile"" reflects anthropocentric fears, not ecological reality.","Survival International"
-"Pristine","Historically inhabited / Culturally-managed","Suggests untouched nature, ignoring human presence and co-evolution.","SAPIENS: Myth of pristine wilderness"
-"Stone age tribe","Hunter-gatherer community / Indigenous nation","Outdated and derogatory term suggesting cultural stagnation.","SAPIENS"
-"Poaching","Illegal trade / Unlicensed harvesting","Used broadly to criminalize Indigenous survival strategies while ignoring context.","Harbinger Journal"
-"In the wild","In natural habitat / Outside captivity","Can imply chaos or disorder; romanticizes and misrepresents ecosystems.","Adventure.com: Wildness and colonial ideas"
-"Tribal people","Indigenous communities","Generic term that ignores specific identities and can carry pejorative meaning.","Survival International"
-"Bush people","Indigenous community / Specific nation name","Generalizing and pejorative; rooted in colonial racial hierarchies.","Sapiens – Decolonize Conservation"
-"Indigenous “beliefs”","Indigenous cosmologies / Worldviews","“Belief” suggests irrationality or inferiority to science.","ICT Inc."
-"Ethnic animal folklore","Indigenous ecological knowledge / Oral tradition","“Folklore” implies fictional or non-scientific status.","Harbinger Journal"
-"Local knowledge","Indigenous knowledge / Traditional ecological knowledge (TEK)","“Local” minimizes global relevance of non-Western science.","Sapiens"
-"Jungle medicine","Indigenous medicine / Traditional healing","“Jungle” exoticizes and discredits effective medicinal knowledge.","Survival International"
-"Noble bloodline (zoo breeding programs)","Long genetic lineage / Line-bred population","Anthropocentric, colonialist framing applied to animals.","MDPI - Land Journal"
-"Ethnic minority (without specificity)","Marginalised group / Named community","Generic; risks homogenizing and erasing agency.","Ecology & Society"
-"Nomadic","Mobile / Seasonally migratory","Often misused to suggest aimlessness; used to justify removal from land.","UN Permanent Forum on Indigenous Issues"
-"Tribe","Nation / People / Community name","Vague and often pejorative, masking cultural complexity.","Sapiens"
-"Tribe leader (generic)","Nation leader / Council elder / Chief (if appropriate)","“Tribe” is often inaccurately applied and stereotyped.","Survival International"
-"Exotic (animals or cultures)","Non-native / From [region]","“Exotic” objectifies and sensationalises.","Sapiens.org"
-"Virgin forest","Old-growth / Primary forest","Gendered and colonial, erases human history and Indigenous stewardship.","Environmental Humanities Journal"
-"Illiterate tribes","Oral cultures / Non-literate knowledge systems","Equates literacy with intelligence; denies other knowledge systems.","NIH: Indigenous Knowledge Systems"
-"Anthropological objectivity","Participatory research / Reflexive methodology","Often ignores power dynamics and colonial framing.","Ecology & Society"
-"Colonies of wildlife","Populations / Breeding groups","“Colonies” can echo colonial expansion language.","MDPI Land Journal"
-"Nature reserve (in former colonies)","Protected Indigenous-managed territory","May ignore or exclude Indigenous governance.","Survival International"
-"Barren land","Regenerating / Fallow / Depleted","Often misused to justify land grabs, ignoring historical cultivation.","MDPI - Land"
-"Local help (in archives and research)","Research collaborators / Community researchers","Minimizes Indigenous contributions.","MSD: Decolonizing Methodologies"
-"Underdeveloped region","Resource-constrained / Historically underfunded","Implies backwardness and developmental deficiency.","MDPI - Land Journal"
-"Remote village","Rural / Outlying area","“Remote” centers the speaker’s location, implying marginality.","Adventure.com"
-"Small-scale tribe","Small population Indigenous nation","“Tribe” flattens complexity; ""small-scale"" implies irrelevance.","Survival International"
-"Uncontacted tribe","Sovereign people / Autonomous Indigenous nation","“Uncontacted” centers Western experience and objectifies groups.","Survival International"
-"Land of no people","Sparsely inhabited / Formerly depopulated","Myth used to justify land seizure in conservation.","Survival International"
-"Noble race (in animal pedigrees)","Specific lineage / Conservation breeding line","Implies social hierarchy and purity ideologies.","MDPI - Land Journal"
-"Zoological conquest","Specimen collection / Colonial animal capture","Masks violence and extraction in global species trade.","Sapiens"
-"Unclaimed land","Stolen territory / Unrecognized Indigenous land","Legal fiction used to justify settler occupation.","Environmental Humanities"
-"Hunter tribe","Subsistence-based community / Foraging society","Overgeneralizing, decontextualized and often used pejoratively.","Survival International"
-"Totem animal","Symbolic species / Cultural emblem","“Totem” is often misapplied or appropriated.","Harbinger Journal"
-"Vanishing cultures","Threatened languages / Underrepresented communities","Romanticizes decline instead of empowering cultural survival.","Survival International"
-"Uncivilised art","Traditional art / Indigenous aesthetics","“Uncivilised” imposes colonial aesthetic standards.","Harbinger Journal"
-"Pagan rituals","Traditional ceremonies / Sacred practices","""Pagan"" has colonial, Christianizing bias.","Harbinger Journal"
-"Ethnic costumes (on signage)","Traditional dress / Ceremonial regalia","“Costume” trivializes cultural identity and history.","Sapiens.org"
-"Primitive shelter","Traditional housing / Indigenous architecture","“Primitive” implies inferiority and lack of innovation.","Survival International"
-"Vernacular knowledge","Traditional knowledge / Indigenous expertise","“Vernacular” can imply unsystematic or informal.","Harbinger Journal"
-"Encroachment (by locals)","Traditional land use / Ancestral movement","Criminalizes Indigenous presence on their own land.","Harbinger Journal"
-"Undiscovered species","Unclassified species / Newly described species","“Undiscovered” ignores Indigenous ecological knowledge.","SAPIENS"
-"Marginal land","Under-supported territory / Traditionally managed area","“Marginal” implies low value; justifies extractive development.","The Bristorian"
-"Hill people","Upland communities / Mountain-dwelling nation","Overgeneralizing and can be pejorative.","Survival International"
-"Bushmeat","Wild meat / Subsistence hunting","“Bushmeat” criminalizes traditional Indigenous hunting practices and has racialized colonial roots.","Survival International"
-"Untamed","Wild-living / Free-roaming","Suggests animals are chaotic or need control.","Adventure.com"
+﻿Term to Reconsider,Suggested Alternative,Why is the Term Problematic (Context & Notes),Source/Link,,
+Native uprising,Anti-colonial resistance / Sovereignty movement,“Uprising” implies rebellion against rightful authority.,Environmental Humanities,,
+Vanishing wildlife,At-risk / Vulnerable / Conservation-dependent species,"""Vanishing"" naturalizes decline, obscuring human causes.",Harbinger Journal,,
+Savage land,Biodiverse ecosystem / High-wildlife area,Dehumanizes and justifies domination of both land and people.,Environmental Humanities,,
+Trophy hunting,Commercialized wildlife killing,Sanitizes the violence of animal killing for leisure.,Sapiens,,
+Chief,Community leader / Elder / Specific title,Generic term that collapses diverse political systems into a stereotype.,Survival International,,
+Native superstition,Cultural belief system / Traditional cosmology,"""Superstition"" delegitimizes Indigenous epistemologies.",Harbinger Journal,,
+Ethnic zoo (old signage/labels),Cultural exhibit / Human diversity exhibition,Refers to racist human displays common in colonial fairs.,Survival International,,
+Indigenous extinction,Cultural suppression / Language loss due to colonisation,Implies inevitability instead of political erasure.,Decolonization Is Not a Metaphor,,
+Lost language,Dormant language / Revivable heritage language,“Lost” implies hopelessness and cultural extinction.,PRISM: Indigenous Language Reclamation,,
+Desolate land,Dryland / Semi-arid ecosystem,Encourages erasure and repurposing of Indigenous territories.,Environmental Humanities – Behind the Colonial Silence of Wilderness,,
+Jungle tribe,Forest-dwelling Indigenous group,Exoticizing and colonial framing.,Survival International,,
+Hostile environment,Harsh habitat / Biodiversity-challenged area,"“Hostile” reflects anthropocentric fears, not ecological reality.",Survival International,,
+Pristine,Historically inhabited / Culturally-managed,"Suggests untouched nature, ignoring human presence and co-evolution.",SAPIENS: Myth of pristine wilderness,,
+Stone age tribe,Hunter-gatherer community / Indigenous nation,Outdated and derogatory term suggesting cultural stagnation.,SAPIENS,,
+Poaching,Illegal trade / Unlicensed harvesting,Used broadly to criminalize Indigenous survival strategies while ignoring context.,Harbinger Journal,,
+In the wild,In natural habitat / Outside captivity,Can imply chaos or disorder; romanticizes and misrepresents ecosystems.,Adventure.com: Wildness and colonial ideas,,
+Tribal people,Indigenous communities,Generic term that ignores specific identities and can carry pejorative meaning.,Survival International,,
+Bush people,Indigenous community / Specific nation name,Generalizing and pejorative; rooted in colonial racial hierarchies.,Sapiens – Decolonize Conservation,,
+Indigenous “beliefs”,Indigenous cosmologies / Worldviews,“Belief” suggests irrationality or inferiority to science.,ICT Inc.,,
+Ethnic animal folklore,Indigenous ecological knowledge / Oral tradition,“Folklore” implies fictional or non-scientific status.,Harbinger Journal,,
+Local knowledge,Indigenous knowledge / Traditional ecological knowledge (TEK),“Local” minimizes global relevance of non-Western science.,Sapiens,,
+Jungle medicine,Indigenous medicine / Traditional healing,“Jungle” exoticizes and discredits effective medicinal knowledge.,Survival International,,
+Noble bloodline (zoo breeding programs),Long genetic lineage / Line-bred population,"Anthropocentric, colonialist framing applied to animals.",MDPI - Land Journal,,
+Ethnic minority (without specificity),Marginalised group / Named community,Generic; risks homogenizing and erasing agency.,Ecology & Society,,
+Nomadic,Mobile / Seasonally migratory,Often misused to suggest aimlessness; used to justify removal from land.,UN Permanent Forum on Indigenous Issues,,
+Tribe,Nation / People / Community name,"Vague and often pejorative, masking cultural complexity.",Sapiens,,
+Tribe leader (generic),Nation leader / Council elder / Chief (if appropriate),“Tribe” is often inaccurately applied and stereotyped.,Survival International,,
+Exotic (animals or cultures),Non-native / From [region],“Exotic” objectifies and sensationalises.,Sapiens.org,,
+Virgin forest,Old-growth / Primary forest,"Gendered and colonial, erases human history and Indigenous stewardship.",Environmental Humanities Journal,,
+Illiterate tribes,Oral cultures / Non-literate knowledge systems,Equates literacy with intelligence; denies other knowledge systems.,NIH: Indigenous Knowledge Systems,,
+Anthropological objectivity,Participatory research / Reflexive methodology,Often ignores power dynamics and colonial framing.,Ecology & Society,,
+Colonies of wildlife,Populations / Breeding groups,“Colonies” can echo colonial expansion language.,MDPI Land Journal,,
+Nature reserve (in former colonies),Protected Indigenous-managed territory,May ignore or exclude Indigenous governance.,Survival International,,
+Barren land,Regenerating / Fallow / Depleted,"Often misused to justify land grabs, ignoring historical cultivation.",MDPI - Land,,
+Local help (in archives and research),Research collaborators / Community researchers,Minimizes Indigenous contributions.,MSD: Decolonizing Methodologies,,
+Underdeveloped region,Resource-constrained / Historically underfunded,Implies backwardness and developmental deficiency.,MDPI - Land Journal,,
+Remote village,Rural / Outlying area,"“Remote” centers the speaker’s location, implying marginality.",Adventure.com,,
+Small-scale tribe,Small population Indigenous nation,"“Tribe” flattens complexity; ""small-scale"" implies irrelevance.",Survival International,,
+Uncontacted tribe,Sovereign people / Autonomous Indigenous nation,“Uncontacted” centers Western experience and objectifies groups.,Survival International,,
+Land of no people,Sparsely inhabited / Formerly depopulated,Myth used to justify land seizure in conservation.,Survival International,,
+Noble race (in animal pedigrees),Specific lineage / Conservation breeding line,Implies social hierarchy and purity ideologies.,MDPI - Land Journal,,
+Zoological conquest,Specimen collection / Colonial animal capture,Masks violence and extraction in global species trade.,Sapiens,,
+Unclaimed land,Stolen territory / Unrecognized Indigenous land,Legal fiction used to justify settler occupation.,Environmental Humanities,,Source/Link
+Hunter tribe,Subsistence-based community / Foraging society,"Overgeneralizing, decontextualized and often used pejoratively.",Survival International,,
+Totem animal,Symbolic species / Cultural emblem,“Totem” is often misapplied or appropriated.,Harbinger Journal,,
+Vanishing cultures,Threatened languages / Underrepresented communities,Romanticizes decline instead of empowering cultural survival.,Survival International,,
+Uncivilised art,Traditional art / Indigenous aesthetics,“Uncivilised” imposes colonial aesthetic standards.,Harbinger Journal,,
+Pagan rituals,Traditional ceremonies / Sacred practices,"""Pagan"" has colonial, Christianizing bias.",Harbinger Journal,,
+Ethnic costumes (on signage),Traditional dress / Ceremonial regalia,“Costume” trivializes cultural identity and history.,Sapiens.org,,
+Primitive shelter,Traditional housing / Indigenous architecture,“Primitive” implies inferiority and lack of innovation.,Survival International,,
+Vernacular knowledge,Traditional knowledge / Indigenous expertise,“Vernacular” can imply unsystematic or informal.,Harbinger Journal,,
+Encroachment (by locals),Traditional land use / Ancestral movement,Criminalizes Indigenous presence on their own land.,Harbinger Journal,,
+Undiscovered species,Unclassified species / Newly described species,“Undiscovered” ignores Indigenous ecological knowledge.,SAPIENS,,
+Marginal land,Under-supported territory / Traditionally managed area,“Marginal” implies low value; justifies extractive development.,The Bristorian,,
+Hill people,Upland communities / Mountain-dwelling nation,Overgeneralizing and can be pejorative.,Survival International,,
+Bushmeat,Wild meat / Subsistence hunting,“Bushmeat” criminalizes traditional Indigenous hunting practices and has racialized colonial roots.,Survival International,,
+Untamed,Wild-living / Free-roaming,Suggests animals are chaotic or need control.,Adventure.com,,
+,,,,,
