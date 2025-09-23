@@ -9,7 +9,7 @@ A space to connect with others in zoo education and conservation, to unlearn and
 - reflecting on how language shapes interpretation
 
 ## How to view
-This site is published with GitHub Pages (index.html). When live, view it at:
+This site is published with GitHub Pages (index.html). When live, view it at: https://ariageor.github.io/Decolonizing-Language-Repository/
 
 ## How to contribute a new term
 1. Open `terms.csv` in this repository.
