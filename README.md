@@ -11,12 +11,13 @@ A space to connect with others in zoo education and conservation, to unlearn and
 ## How to view
 This site is published with GitHub Pages (index.html). When live, view it at:
 
-## How to contribute
-1. Fork the repo (or clone if you have write access).
-2. Edit `terms.csv` to add or change rows.
-   - Use the existing header row.
-   - If a field contains commas, wrap it in quotes.
-3. Commit your change and open a Pull Request (PR) describing why the change is useful.
-4. Alternatively, open an Issue to start a discussion before changing the CSV.
-
-
+## How to contribute a new term
+1. Open `terms.csv` in this repository.
+2. Click the ✏️ (pencil) to edit.
+3. Add a new row at the bottom with:
+   - Term to reconsider
+   - Suggested alternative
+   - Why it’s problematic
+   - Source/Link
+4. Scroll down, write a short commit message, and click **Propose changes**.
+5. Submit a Pull Request.  
